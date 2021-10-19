@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="h2-db-v2" type="AUTO_DETECTED" />
+      <mapping pattern="0fb812af8c74d3a0_0" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="prescription_qr_code_content" type="PLAIN_TEXT" />
