@@ -8,7 +8,6 @@
             <value value="RF8M20EVY8L" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-25T03:06:10.713Z" />
         <name value="samsung SM-G970F" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -20,6 +19,7 @@
             <value value="1A221FDF6003CW" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-03-25T03:29:43.680694Z" />
         <name value="Google Pixel 6" />
         <target value="Android 12.0" />
         <api value="31" />
