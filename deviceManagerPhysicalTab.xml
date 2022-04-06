@@ -30,7 +30,6 @@
             <value value="adb-1A221FDF6003CW-DRBARe._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-06T07:57:37.762442Z" />
         <name value="Google Pixel 6" />
         <target value="Android 12.0" />
         <api value="31" />
