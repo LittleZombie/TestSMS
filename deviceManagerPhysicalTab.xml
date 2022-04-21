@@ -5,10 +5,20 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="BH95084SEF" />
+          </Key>
+        </key>
+        <name value="Sony H9493" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="1A221FDF6003CW" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-21T04:22:34.803478Z" />
         <name value="Google Pixel 6" />
         <target value="Android API 32" />
         <api value="32" />
