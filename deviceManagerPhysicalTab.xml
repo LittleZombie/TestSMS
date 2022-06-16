@@ -8,6 +8,7 @@
             <value value="1A221FDF6003CW" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-06-16T08:26:13.253461Z" />
         <name value="Google Pixel 6" />
         <target value="Android API 32" />
         <api value="32" />
@@ -19,6 +20,7 @@
             <value value="YT9117U0FT" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-06-16T08:25:18.042662Z" />
         <name value="Sony E5653" />
         <target value="Android 5.1" />
         <api value="22" />
@@ -41,7 +43,6 @@
             <value value="adb-1A221FDF6003CW-DRBARe._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <lastOnlineTime value="2022-06-16T07:49:45.226247Z" />
         <name value="Google Pixel 6" />
         <target value="Android API 32" />
         <api value="32" />
